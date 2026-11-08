@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "updatedAt": 1794180783486,
+  "updatedAt": 1794180943140,
   "site": {
-    "title": "书架",
-    "title_en": "Library"
+    "title": "首页",
+    "title_en": "Home"
   },
   "novels": [
     {
