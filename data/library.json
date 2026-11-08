@@ -1,46 +1,11 @@
 {
   "version": 1,
-  "updatedAt": 1794180732820,
+  "updatedAt": 1794180783486,
   "site": {
     "title": "书架",
     "title_en": "Library"
   },
   "novels": [
-    {
-      "id": "demo",
-      "title": "示例小说",
-      "title_en": "Sample Book",
-      "author": "星野缘初",
-      "description": "书架自带的示例，演示翻页、字号、背景颜色、目录和阅读进度。\n在编辑器里添加你自己的小说后，可以删掉这本。",
-      "description_en": "A sample book that demonstrates pages, font size, themes, contents and reading progress.",
-      "status": "finished",
-      "hidden": false,
-      "cover": "",
-      "updatedAt": 1794179728441,
-      "chapters": [
-        {
-          "id": "c1",
-          "title": "第一章 这是一本示例书",
-          "part": "第一篇 使用说明",
-          "chars": 281,
-          "v": 1
-        },
-        {
-          "id": "c2",
-          "title": "第二章 分页测试",
-          "part": "第一篇 使用说明",
-          "chars": 3111,
-          "v": 1
-        },
-        {
-          "id": "c3",
-          "title": "第三章 如何添加自己的小说",
-          "part": "第二篇 编辑器",
-          "chars": 160,
-          "v": 1
-        }
-      ]
-    },
     {
       "id": "bin9xrz",
       "title": "理想乡：致无法共鸣的你",
