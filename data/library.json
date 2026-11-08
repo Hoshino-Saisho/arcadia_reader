@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1794179728441,
+  "updatedAt": 1794180732820,
   "site": {
     "title": "书架",
     "title_en": "Library"
@@ -38,6 +38,26 @@
           "part": "第二篇 编辑器",
           "chars": 160,
           "v": 1
+        }
+      ]
+    },
+    {
+      "id": "bin9xrz",
+      "title": "理想乡：致无法共鸣的你",
+      "title_en": "",
+      "author": "星野缘初",
+      "description": "一位少年被恶意的命运邂逅\n一位少女懵懂的改变了世界\n一位孤者在失去亲友后报复世界\n一位女儿拼命解开父亲的谜题\n最后战争的号角吹响，一场与旧世界告别的辩论开始了",
+      "status": "ongoing",
+      "hidden": false,
+      "cover": "covers/bin9xrz.jpg?v=1794180519000",
+      "updatedAt": 1794180606186,
+      "chapters": [
+        {
+          "id": "cl82r3n",
+          "title": "第一章：概念行者",
+          "part": "第一篇，断绝与清晨",
+          "chars": 4287,
+          "v": 1794180606186
         }
       ]
     }
