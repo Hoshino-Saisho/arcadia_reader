@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="zh-CN" data-theme="paper">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>书架</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='14' y='10' width='72' height='80' rx='6' fill='%23b3262a'/><rect x='24' y='22' width='52' height='6' fill='%23f6eedc'/><rect x='24' y='36' width='40' height='5' fill='%23f6eedc'/></svg>">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script>try{var s=JSON.parse(localStorage.getItem('arcadia-reader-settings')||'{}');if(s.theme)document.documentElement.dataset.theme=s.theme;}catch(e){}</script>
+</head>
+<body>
+  <div id="app"><p class="ed-loading">…</p></div>
+  <noscript>This site needs JavaScript. 这个网站需要开启 JavaScript。</noscript>
+  <script>
+    setTimeout(function () {
+      if (window.__readerBooted) return;
+      var m = document.getElementById("app");
+      if (m) m.innerHTML = "<div style=\"max-width:640px;margin:40px auto;padding:20px;border:2px solid #b3262a;border-radius:10px;font:15px/1.7 sans-serif\"><b>网站文件没有加载成功 / Site files failed to load</b><br>请确认仓库<b>根目录</b>里直接就有 <code>index.html</code>、<code>editor.html</code>、<code>assets</code> 和 <code>data</code>，而不是被放在另一个文件夹里面。上传时要把解压后文件夹<b>里面的东西</b>拖进去，不要上传 zip 本身。</div>";
+    }, 4000);
+  </script>
+  <script type="module" src="assets/js/reader.js"></script>
+</body>
+</html>
