@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1794180950971,
+  "updatedAt": 1794181050605,
   "site": {
     "title": "回到首页",
     "title_en": "Home"
@@ -15,7 +15,7 @@
       "status": "ongoing",
       "hidden": false,
       "cover": "covers/bin9xrz.jpg?v=1794180519000",
-      "updatedAt": 1794180606186,
+      "updatedAt": 1794181045004,
       "chapters": [
         {
           "id": "cl82r3n",
@@ -23,6 +23,13 @@
           "part": "第一篇，断绝与清晨",
           "chars": 4287,
           "v": 1794180606186
+        },
+        {
+          "id": "cabtre4",
+          "title": "第二章：小说，极端，天生行者",
+          "part": "第一篇，断绝与清晨",
+          "chars": 4080,
+          "v": 1794181045004
         }
       ]
     }
